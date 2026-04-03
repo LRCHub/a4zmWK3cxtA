@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Natsuirono Nancy",
+  "base_artist": "Yu Hayami",
+  "createdAt": "2026-04-03T14:26:46.285216Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Natsuirono Nancy",
+      "artist": "Yu Hayami",
+      "has_synced": false,
+      "path": "select/01_Natsuirono_Nancy_Yu_Hayami.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Natsuirono Nancy",
+      "artist": "Yu Hayami",
+      "has_synced": true,
+      "path": "select/02_Natsuirono_Nancy_Yu_Hayami.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Natsuirono Nancy (Live At Aichi Kouseinenkinkaikan / 1985)",
+      "artist": "Yu Hayami",
+      "has_synced": false,
+      "path": "select/03_Natsuirono_Nancy_(Live_At_Aichi_Kouseinenkinkaikan___1985)_Yu_Hayami.txt"
+    }
+  ]
+}
